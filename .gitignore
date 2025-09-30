@@ -1,0 +1,7 @@
+shaders/*.*
+shaders/
+textures/*.*
+textures/
+cmake-build-debug/
+cmake-build-release/
+.idea/
